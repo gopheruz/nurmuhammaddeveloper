@@ -1,7 +1,7 @@
 Hi 👋 My name is Nurmuhammad
 ============================
 
-Full stack web developer
+
 ------------------------
 
 * 🌍  I'm based in Uzbekistan
